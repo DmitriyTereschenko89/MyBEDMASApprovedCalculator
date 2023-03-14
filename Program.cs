@@ -43,6 +43,7 @@ namespace MyBEDMASApprovedCalculator
                     }
                     return infixForm[startIndex..index];
                 }
+                
                 public List<string> GetPostFixForm()
                 {
                     List<string> postFixForm = new();
