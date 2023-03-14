@@ -12,7 +12,7 @@ namespace MyBEDMASApprovedCalculator
                 OpenBracket = -1,
                 Addition,
                 Subtraction = 0,
-                Division = 1,
+                Division,
                 Multiplication = 1,
                 PowerOf
             }
